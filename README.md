@@ -1,4 +1,5 @@
 # Привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></img>
+*ридми дополняю понемногу, stay tuned*
 <h4 align="center">
   <a href="https://vk.com/dndrheadof" target="_blank">VK</a>
   •

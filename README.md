@@ -1,4 +1,12 @@
-### Hi there 👋
+# Привет! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Смешные графики
+<a href="https://github.com/dndrheadof/dndrheadof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dndrheadof&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dndrhead's GitHub Stats" />
+</a>
+<a href="https://github.com/dndrheadof/dndrheadof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndrheadof&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!--
 **dndrheadof/dndrheadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
